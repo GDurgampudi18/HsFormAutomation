@@ -1,5 +1,6 @@
-# HsFormAutomation (Fill in the contact form and submit it)
-Validate the thank you form after submitting it.
+# HsFormAutomation 
+Testcase:
+Fill in the Hscontact form and submit it and Validate the thank you form after submitting it.
 
 Tools and Technoloies used:                                                                                                                                      
 VisualStudio                                                                                      
@@ -8,7 +9,6 @@ Selenium
 
 Language:                                                                                                                                      
 C#
-
 
 Type of design
 I have followed Page Object pattern in Selenium to create an object repository of the different web elements for the page.
