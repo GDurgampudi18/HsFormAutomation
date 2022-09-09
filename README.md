@@ -1,7 +1,8 @@
-# HsFormAutomation
+# HsFormAutomation (Fill in the contact form and submit it)
+Validate the thank you form after submitting it.
 
 Tools and Technoloies used:
-VisualStudio
+VisualStudio                                                                                      
 Nunit
 Selenium
 C#
