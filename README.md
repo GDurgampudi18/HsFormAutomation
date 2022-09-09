@@ -3,8 +3,10 @@ Validate the thank you form after submitting it.
 
 Tools and Technoloies used:
 VisualStudio                                                                                      
-Nunit
-Selenium
+Nunit                                                                                                                                                           
+Selenium                                                                                                                                                                 
+
+Language:                                                                                                                                      
 C#
 
 
